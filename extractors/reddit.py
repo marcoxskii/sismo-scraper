@@ -5,8 +5,8 @@ renderiza en el servidor y NO exige iniciar sesión, lo que hace la
 extracción estable y ligera (ideal para 8 GB de RAM).
 
 Recibe un `browser` ya abierto por el orquestador y crea su propio
-browser_context aislado -> permite correr las 3 fuentes en paralelo
-sobre un solo proceso Chromium.
+browser_context aislado -> permite correr varios frentes de extracción
+en paralelo sobre un solo proceso Chromium.
 
 Dos niveles de extracción:
   1) posts (títulos) desde la búsqueda.
