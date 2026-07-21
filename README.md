@@ -123,3 +123,5 @@ data/              Salidas generadas (base de datos textual)
   *"7.1 Earthquake at the airport"* (704), etc.
 - 62 comentarios con score negativo (controversiales / posible acoso).
 - Sin bloqueos de IP.
+
+- 
