@@ -125,3 +125,5 @@ data/              Salidas generadas (base de datos textual)
 - Sin bloqueos de IP.
 
 - 
+
+Ejecutado en un entorno macOS
